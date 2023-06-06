@@ -1,0 +1,25 @@
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    word-spacing: 1.5px;
+    font-size: 20px;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+.list-item {
+    color: purple;
+    font-size: 16px;
+}
+
+.list .instructions {
+    color: red;
+    font-size: 14px;
+}
+
+#instruction-list {
+    border: black;
+    border-style: solid;
+}
